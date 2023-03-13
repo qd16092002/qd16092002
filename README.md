@@ -1,8 +1,9 @@
 ### Hi there  👋   I'm Tran Quang Dao
 
 - 👀 I’m interested in coding...
-- 🔭 I’m currently working on BK Fintech
-- 🌱 I’m currently learning on Hanoi University of Science and Technology
-- 📫 How to reach me: tranquangdao16092002@gmail.com
-- 📫 Facebook: https://www.facebook.com/quangdao1609/
+- 🔭 I’m a member of the BKC Labs
+- 🌱 I’m currently learning Computer Science at Hanoi University of Science and Technology
+- 📫 How to reach me: 
+    - Facebook: https://www.facebook.com/quangdao1609/
+    - Instagram: https://www.instagram.com/qd_16092002
 
