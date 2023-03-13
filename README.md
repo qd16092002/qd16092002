@@ -1,4 +1,4 @@
-### Hi there  👋   I'm Tran Quang Dao
+### Hi, I'm Tran Quang Dao 👋 
 
 - 👀 I’m interested in coding...
 - 🔭 I’m a member of the BKC Labs
