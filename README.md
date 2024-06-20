@@ -10,15 +10,13 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-    <p align="left" style="width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qd16092002&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qd16092002&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-    <p align="right" style="width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=qd16092002&show_icons=true&locale=en" alt="GitHub Stats" />
-    </p>
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=qd16092002&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=qd16092002&" alt="GitHub Streak" />
@@ -41,14 +39,14 @@
 
 ## 📊 GitHub Profile Stats
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qd16092002&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=qd16092002&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=qd16092002&" alt="GitHub Streak" />
 </p>
