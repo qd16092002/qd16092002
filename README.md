@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 📌 Pinned Repositories
+## 📌 Pinned Repositories (These projects are small projects posted publicly on my github )
 
 - [Happy-Hospital](https://github.com/qd16092002/Happy-Hospital) - BTL OOP 2021.2 - Java, chuyển từ TypeScript.
 - [MyFirstApp](https://github.com/qd16092002/MyFirstApp) - Ứng dụng đầu tiên của tôi viết bằng Dart.
