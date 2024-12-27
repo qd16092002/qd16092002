@@ -1,7 +1,7 @@
 ### Hi, I'm Tran Quang Dao 👋 
 
 - 👀 I’m interested in coding...
-- 🔭 Member of the AIPTGROUP Company
+- 🔭 Software engineer of AIT GROUP Company
 - 🌱 I’m currently learning Computer Science at Hanoi University of Science and Technology
 - 📫 How to contact me: 
     - [Facebook](https://www.facebook.com/quangdao1609/)
