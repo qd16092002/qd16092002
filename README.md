@@ -5,7 +5,7 @@
 - 🌱 I graduated with a bachelor's degree in Computer Science from Hanoi University of Science and Technology.
 - 📫 How to contact me: 
     - [Facebook](https://www.facebook.com/quangdao1609/)
-    - [Instagram](https://www.instagram.com/qd_16092002)
+    - [Instagram](https://www.instagram.com/quangdao_16)
     - [Gmail](mailto:tranquangdao16092002@gmail.com)
 
 
