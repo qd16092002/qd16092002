@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in coding...
 - 🔭 Software engineer of AIPT GROUP Company
-- 🌱 I’m currently learning Computer Science at Hanoi University of Science and Technology
+- 🌱 I graduated with a bachelor's degree in Computer Science from Hanoi University of Science and Technology.
 - 📫 How to contact me: 
     - [Facebook](https://www.facebook.com/quangdao1609/)
     - [Instagram](https://www.instagram.com/qd_16092002)
